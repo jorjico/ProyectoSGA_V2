@@ -16,7 +16,7 @@ import FichaFamilia from './paginas/FichaFamilia.jsx';
 import VerProyectos from './paginas/VerProyecto.jsx';
 import FichaProyecto from './paginas/FichaProyecto.jsx';
 import EditarProyectoWrapper from './components/EditarProyectoWrapper.jsx';
-import VerClientes from './paginas/VerCliente.jsx';
+import VerClientes from './paginas/VerClientes.jsx';
 import EditarClienteWrapper from './components/EditarClienteWrapper.jsx';
 import FichaCliente from './paginas/FichaCliente.jsx';
 import VerPedidos from './paginas/VerPedidos.jsx';
