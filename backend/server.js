@@ -22,8 +22,26 @@ const app = express();
 connectDB();
 
 app.use(express.json());
-app.use(cors({
+/*app.use(cors({
   origin: process.env.FRONTEND_URL
+}));*/
+
+const allowedOrigins = [
+  "http://localhost:5174",
+  "http://localhost:5175",
+  "https://tu-frontend.vercel.app" // pon aquí la URL de Vercel cuando despliegues
+];
+
+app.use(cors({
+  origin: function(origin, callback){
+    if(!origin) return callback(null, true);
+    if(allowedOrigins.indexOf(origin) === -1){
+      const msg = `La política de CORS bloqueó el origen: ${origin}`;
+      return callback(new Error(msg), false);
+    }
+    return callback(null, true);
+  },
+  credentials: true
 }));
 
 app.use("/api/albaranes", albaranesRoutes);
