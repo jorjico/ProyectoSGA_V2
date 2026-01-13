@@ -1,0 +1,21 @@
+nombre;CIF;direccion;codigoPostal;pais;condicionesPago;diasTiempoEntrega;activo
+Proveedor1;B12345678;Calle Mayor 12, Madrid;28001;España;transferencia;5;true
+Proveedor2;A87654321;Avenida Diagonal 45, Barcelona;8019;España;domiciliacion;7;true
+Proveedor3;C23456789;Calle Larios 8, Málaga;29005;España;cheque;10;true
+Proveedor4;B34567890;Gran Vía 100, Madrid;28013;España;tarjeta;3;true
+Proveedor5;A45678901;Calle Colón 23, Valencia;46004;España;efectivo;6;true
+Proveedor6;C56789012;Calle Feria 15, Sevilla;41003;España;transferencia;12;true
+Proveedor7;B67890123;Paseo de Gracia 99, Barcelona;8008;España;domiciliacion;9;true
+Proveedor8;A78901234;Calle San Vicente 56, Bilbao;48001;España;cheque;4;true
+Proveedor9;C89012345;Calle Toledo 120, Madrid;28005;España;tarjeta;8;true
+Proveedor10;B90123456;Ronda Sant Antoni 14, Barcelona;8011;España;transferencia;15;true
+Proveedor11;A01234567;Calle Betis 78, Sevilla;41010;España;domiciliacion;5;true
+Proveedor12;C12345098;Calle Alcalá 250, Madrid;28027;España;cheque;7;true
+Proveedor13;B23456098;Calle Aragón 33, Palma;7005;España;efectivo;6;true
+Proveedor14;A34567098;Calle Ruzafa 120, Valencia;46006;España;transferencia;9;true
+Proveedor15;C45678098;Gran Vía Asunción 45, Sevilla;41011;España;domiciliacion;11;true
+Proveedor16;B56789098;Calle Uría 77, Oviedo;33003;España;tarjeta;13;true
+Proveedor17;A67890098;Calle Real 5, A Coruña;15003;España;transferencia;4;true
+Proveedor18;C78901098;Calle Mayor 200, Alicante;3001;España;cheque;10;true
+Proveedor19;B89012098;Calle Ancha 10, Cádiz;11001;España;domiciliacion;8;true
+Proveedor20;A90123098;Avenida de la Constitución 150, Zaragoza;50003;España;transferencia;14;true

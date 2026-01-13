@@ -1,0 +1,106 @@
+sku;familia;nombreProducto;foto.url;foto.public_id;proveedores;IVA;stock;unidadMedida
+;Tornillos;Tornillo 3,5x16 Niquel;;;;21;0;Uds
+;Tornillos;Tornillo 3,5x20 Niquel;;;;21;0;Uds
+;Tornillos;Tornillo 3,5x25 Niquel;;;;21;0;Uds
+;Tornillos;Tornillo 3,5x30 Niquel;;;;21;0;Uds
+;Tornillos;Tornillo 3,5x35 Niquel;;;;21;0;Uds
+;Tornillos;Tornillo 3,5x50 Niquel;;;;21;0;Uds
+;Tornillos;Tornillo 4x70 Niquel;;;;21;0;Uds
+;Tornillos;Tornillo 3,5x16 Negro;;;;21;0;Uds
+;Tornillos;Tornillo 3,5x20 Negro;;;;21;0;Uds
+;Tornillos;Tornillo 3,5x25 Negro;;;;21;0;Uds
+;Tornillos;Tornillo 3,5x30 Negro;;;;21;0;Uds
+;Tornillos;Tornillo 3,5x35 Negro;;;;21;0;Uds
+;Tornillos;Tornillo 3,5x50 Negro;;;;21;0;Uds
+;Tornillos;Tornillo 4x70 Negro;;;;21;0;Uds
+;Guias;Guia 300mm Push;;;;21;0;Uds
+;Guias;Guia 350mm Push;;;;21;0;Uds
+;Guias;Guia 400mm Push;;;;21;0;Uds
+;Guias;Guia 450mm Push;;;;21;0;Uds
+;Guias;Guia 500mm Push;;;;21;0;Uds
+;Guias;Guia 550mm Push;;;;21;0;Uds
+;Guias;Guia 600mm Push;;;;21;0;Uds
+;Guias;Guia 300mm Sin Push;;;;21;0;Uds
+;Guias;Guia 350mm Sin Push;;;;21;0;Uds
+;Guias;Guia 400mm Sin Push;;;;21;0;Uds
+;Guias;Guia 450mm Sin Push;;;;21;0;Uds
+;Guias;Guia 500mm Sin Push;;;;21;0;Uds
+;Guias;Guia 550mm Sin Push;;;;21;0;Uds
+;Guias;Guia 600mm Sin Push;;;;21;0;Uds
+;Patas;Pata 100mm Negro;;;;21;0;Uds
+;Patas;Pata 150mm Negro;;;;21;0;Uds
+;Patas;Pata 200mm Negro;;;;21;0;Uds
+;Patas;Pata 100mm Marron;;;;21;0;Uds
+;Patas;Pata 150mm Marron;;;;21;0;Uds
+;Patas;Pata 200mm Marron;;;;21;0;Uds
+;Patas;Pata 100mm Blanco;;;;21;0;Uds
+;Patas;Pata 150mm Blanco;;;;21;0;Uds
+;Patas;Pata 200mm Blanco;;;;21;0;Uds
+;Bisagras;Bisagra Cromo Mate 30Kg;;;;21;0;Uds
+;Bisagras;Bisagra Cromo Mate 70Kg;;;;21;0;Uds
+;Bisagras;Bisagra Cromo Brillo 30Kg;;;;21;0;Uds
+;Bisagras;Bisagra Cromo Brillo 70Kg;;;;21;0;Uds
+;Bisagras;Bisagra Negro 30Kg;;;;21;0;Uds
+;Bisagras;Bisagra Negro 70Kg;;;;21;0;Uds
+;Bisagras;Bisagra Latón 30Kg;;;;21;0;Uds
+;Bisagras;Bisagra Latón 70Kg;;;;21;0;Uds
+;Tiradores;Tirador Modelo1 60mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo1 100mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo1 200mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo1 350mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo1 500mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo1 60mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo1 100mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo1 200mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo1 350mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo1 500mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo1 60mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo1 100mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo1 200mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo1 350mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo1 500mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo2 60mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo2 100mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo2 200mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo2 350mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo2 500mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo2 60mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo2 100mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo2 200mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo2 350mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo2 500mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo2 60mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo2 100mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo2 200mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo2 350mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo2 500mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo3 60mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo3 100mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo3 200mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo3 350mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo3 500mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo3 60mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo3 100mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo3 200mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo3 350mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo3 500mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo3 60mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo3 100mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo3 200mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo3 350mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo3 500mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo4 60mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo4 100mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo4 200mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo4 350mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo4 500mm Negro;;;;21;0;Uds
+;Tiradores;Tirador Modelo4 60mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo4 100mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo4 200mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo4 350mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo4 500mm Blanco;;;;21;0;Uds
+;Tiradores;Tirador Modelo4 60mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo4 100mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo4 200mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo4 350mm Latón;;;;21;0;Uds
+;Tiradores;Tirador Modelo4 500mm Latón;;;;21;0;Uds

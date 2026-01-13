@@ -1,0 +1,23 @@
+numero;proyecto;motivo;fechaSalida;producto;sku;nombreProducto;cantidad;usuario;notas
+SAL-25/00001;OF-25/0001;;2025-10-01;;;Tornillo 3,5x16 Niquel;50;usuariosemilla@empresa.com;
+SAL-25/00001;OF-25/0001;;2025-10-01;;;Guia 300mm Push;10;usuariosemilla@empresa.com;
+SAL-25/00002;OF-25/0003;;2025-10-05;;;Bisagra Cromo Mate 70Kg;8;usuariosemilla@empresa.com;
+SAL-25/00003;OF-25/0005;;2025-10-08;;;Pata 200mm Marron;12;usuariosemilla@empresa.com;Reposición de stock en obra
+SAL-25/00004;OF-25/0006;;2025-10-09;;;Tirador Modelo1 60mm Blanco;30;usuariosemilla@empresa.com;
+SAL-25/00004;OF-25/0006;;2025-10-09;;;Guia 450mm Push;15;usuariosemilla@empresa.com;
+SAL-25/00005;OF-25/0007;;2025-10-12;;;Tirador Modelo2 200mm Negro;10;usuariosemilla@empresa.com;
+SAL-25/00006;OF-25/0008;;2025-10-13;;;Bisagra Cromo Brillo 30Kg;20;usuariosemilla@empresa.com;
+SAL-25/00007;OF-25/0010;;2025-10-17;;;Guia 400mm Sin Push;10;usuariosemilla@empresa.com;
+SAL-25/00008;OF-25/0011;;2025-10-18;;;Pata 150mm Marron;15;usuariosemilla@empresa.com;
+SAL-25/00009;OF-25/0013;;2025-10-19;;;Tirador Modelo1 200mm Blanco;20;usuariosemilla@empresa.com;
+SAL-25/00010;OF-25/0015;;2025-10-20;;;Tirador Modelo4 60mm Latón;6;usuariosemilla@empresa.com;
+SAL-25/00011;OF-25/0016;;2025-10-21;;;Tornillo 3,5x35 Negro;100;usuariosemilla@empresa.com;
+SAL-25/00012;OF-25/0017;;2025-10-22;;;Bisagra Negro 30Kg;25;usuariosemilla@empresa.com;Reposición de herrajes dañados
+SAL-25/00013;OF-25/0019;;2025-10-23;;;Guia 600mm Push;8;usuariosemilla@empresa.com;
+SAL-25/00014;OF-25/0020;;2025-10-24;;;Guia 550mm Sin Push;10;usuariosemilla@empresa.com;
+SAL-25/00015;OF-25/0022;;2025-10-25;;;Tirador Modelo2 500mm Blanco;5;usuariosemilla@empresa.com;
+SAL-25/00016;OF-25/0023;;2025-10-26;;;Tornillo 4x70 Niquel;80;usuariosemilla@empresa.com;
+SAL-25/00017;OF-25/0025;;2025-10-27;;;Bisagra Cromo Brillo 70Kg;10;usuariosemilla@empresa.com;
+SAL-25/00018;OF-25/0027;;2025-10-28;;;Pata 200mm Blanco;18;usuariosemilla@empresa.com;
+SAL-25/00019;OF-25/0029;;2025-10-29;;;Tirador Modelo2 100mm Latón;12;usuariosemilla@empresa.com;
+SAL-25/00020;OF-25/0030;;2025-10-30;;;Guia 400mm Push;20;usuariosemilla@empresa.com;

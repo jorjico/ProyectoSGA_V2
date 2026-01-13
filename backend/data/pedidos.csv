@@ -1,0 +1,75 @@
+numeroPedido;proveedor;proyecto;fechaPedido;fechaEntregaEstimado;productoProveedor;cantidad;precioUnitario;referenciaProveedor;importeBruto;totalBruto;totalConIVA;estado
+PED/2025/0001;Proveedor1;OF-25/0001;2025-01-10;2025-09-15;Tornillo 3,5x16 Niquel;250;0.05;Prov001-Tornillo35x16Niquel;;;;recibido
+PED/2025/0001;Proveedor1;OF-25/0001;2025-01-10;2025-09-15;Tornillo 4x70 Niquel;250;0.05;Prov001-Tornillo4x70Niquel;;;;recibido
+PED/2025/0001;Proveedor1;OF-25/0001;2025-01-10;2025-09-15;Tornillo 3,5x25 Negro;250;0.05;Prov001-Tornillo35x25Negro;;;;recibido
+PED/2025/0002;Proveedor2;OF-25/0002;2025-01-12;2025-01-19;Tornillo 3,5x16 Negro;500;0.06;Prov002-Tornillo35x16Negro;;;;recibido
+PED/2025/0002;Proveedor2;OF-25/0002;2025-01-12;2025-01-19;Tornillo 3,5x20 Negro;500;0.06;Prov002-Tornillo35x20Negro;;;;recibido
+PED/2025/0002;Proveedor2;OF-25/0002;2025-01-12;2025-01-19;Tornillo 3,5x25 Negro;500;0.06;Prov002-Tornillo35x25Negro;;;;recibido
+PED/2025/0002;Proveedor2;OF-25/0002;2025-01-12;2025-01-19;Tornillo 3,5x30 Negro;500;0.06;Prov002-Tornillo35x30Negro;;;;recibido
+PED/2025/0003;Proveedor3;OF-25/0003;2025-02-13;2025-02-23;Tornillo 3,5x50 Niquel;750;0.07;Prov003-Tornillo35x50Niquel;;;;recibido
+PED/2025/0003;Proveedor3;OF-25/0003;2025-02-13;2025-02-23;Tornillo 4x70 Niquel;750;0.07;Prov003-Tornillo4x70Niquel;;;;recibido
+PED/2025/0004;Proveedor4;OF-25/0004;2025-02-20;2025-02-23;Tornillo 3,5x16 Niquel;2000;0.08;Prov004-Tornillo35x16Niquel;;;;recibido
+PED/2025/0004;Proveedor4;OF-25/0004;2025-02-20;2025-02-23;Tornillo 3,5x20 Niquel;2000;0.08;Prov004-Tornillo35x20Niquel;;;;recibido
+PED/2025/0004;Proveedor4;OF-25/0004;2025-02-20;2025-02-23;Tornillo 3,5x25 Niquel;2000;0.08;Prov004-Tornillo35x25Niquel;;;;recibido
+PED/2025/0004;Proveedor4;OF-25/0004;2025-02-20;2025-02-23;Tornillo 3,5x30 Niquel;2000;0.08;Prov004-Tornillo35x30Niquel;;;;recibido
+PED/2025/0005;Proveedor5;OF-25/0005;2025-03-01;2025-03-07;Tornillo 3,5x16 Negro;1250;0.09;Prov005-Tornillo35x16Negro;;;;recibido
+PED/2025/0005;Proveedor5;OF-25/0005;2025-03-01;2025-03-07;Tornillo 3,5x20 Negro;1250;0.09;Prov005-Tornillo35x20Negro;;;;recibido
+PED/2025/0005;Proveedor5;OF-25/0005;2025-03-01;2025-03-07;Tornillo 3,5x25 Negro;1250;0.09;Prov005-Tornillo35x25Negro;;;;recibido
+PED/2025/0006;Proveedor6;OF-25/0006;2025-03-15;2025-03-27;Tornillo 3,5x35 Negro;3000;0.1;Prov006-Tornillo35x35Negro;;;;cancelado
+PED/2025/0006;Proveedor6;OF-25/0006;2025-03-15;2025-03-27;Tornillo 3,5x50 Negro;3000;0.1;Prov006-Tornillo35x50Negro;;;;cancelado
+PED/2025/0006;Proveedor6;OF-25/0006;2025-03-15;2025-03-27;Tornillo 4x70 Negro;3000;0.1;Prov006-Tornillo4x70Negro;;;;cancelado
+PED/2025/0007;Proveedor7;OF-25/0007;2025-03-20;2025-03-29;Guia 300mm Push;50;6.5;Prov007-Guia300mmPush;;;;recibido
+PED/2025/0007;Proveedor7;OF-25/0007;2025-03-20;2025-03-29;Guia 350mm Push;50;6.5;Prov007-Guia350mmPush;;;;recibido
+PED/2025/0007;Proveedor7;OF-25/0007;2025-03-20;2025-03-29;Guia 400mm Push;50;6.5;Prov007-Guia400mmPush;;;;recibido
+PED/2025/0007;Proveedor7;OF-25/0007;2025-03-20;2025-03-29;Guia 450mm Push;50;6.5;Prov007-Guia450mmPush;;;;recibido
+PED/2025/0008;Proveedor8;OF-25/0008;2025-04-01;2025-04-05;Guia 300mm Sin Push;50;6.51;Prov008-Guia300mmSinPush;;;;recibido
+PED/2025/0008;Proveedor8;OF-25/0008;2025-04-01;2025-04-05;Guia 350mm Sin Push;50;6.51;Prov008-Guia350mmSinPush;;;;recibido
+PED/2025/0008;Proveedor8;OF-25/0008;2025-04-01;2025-04-05;Guia 400mm Sin Push;50;6.51;Prov008-Guia400mmSinPush;;;;recibido
+PED/2025/0008;Proveedor8;OF-25/0008;2025-04-01;2025-04-05;Guia 450mm Sin Push;50;6.51;Prov008-Guia450mmSinPush;;;;recibido
+PED/2025/0009;Proveedor9;OF-25/0009;2025-04-15;2025-04-23;Guia 450mm Push;30;6.52;Prov009-Guia450mmPush;;;;recibido
+PED/2025/0009;Proveedor9;OF-25/0009;2025-04-15;2025-04-23;Guia 500mm Push;30;6.52;Prov009-Guia500mmPush;;;;recibido
+PED/2025/0009;Proveedor9;OF-25/0009;2025-04-15;2025-04-23;Guia 550mm Push;30;6.52;Prov009-Guia550mmPush;;;;recibido
+PED/2025/0009;Proveedor9;OF-25/0009;2025-04-15;2025-04-23;Guia 600mm Push;30;6.52;Prov009-Guia600mmPush;;;;recibido
+PED/2025/0010;Proveedor10;OF-25/0010;2025-04-15;2025-04-30;Guia 600mm Push;30;6.53;Prov010-Guia600mmPush;;;;cancelado
+PED/2025/0010;Proveedor10;OF-25/0010;2025-04-15;2025-04-30;Guia 600mm Sin Push;30;6.53;Prov010-Guia600mmSinPush;;;;cancelado
+PED/2025/0011;Proveedor11;OF-25/0011;2025-04-20;2025-04-25;Pata 100mm Negro;100;1.2;Prov011-Pata100mmNegro;;;;recibido
+PED/2025/0011;Proveedor11;OF-25/0011;2025-04-20;2025-04-25;Pata 150mm Negro;100;1.2;Prov011-Pata150mmNegro;;;;recibido
+PED/2025/0011;Proveedor11;OF-25/0011;2025-04-20;2025-04-25;Pata 200mm Negro;100;1.2;Prov011-Pata200mmNegro;;;;recibido
+PED/2025/0012;Proveedor12;OF-25/0012;2025-05-01;2025-05-08;Pata 100mm Marron;100;1.21;Prov012-Pata100mmMarron;;;;recibido
+PED/2025/0012;Proveedor12;OF-25/0012;2025-05-01;2025-05-08;Pata 150mm Marron;100;1.21;Prov012-Pata150mmMarron;;;;recibido
+PED/2025/0012;Proveedor12;OF-25/0012;2025-05-01;2025-05-08;Pata 200mm Marron;100;1.21;Prov012-Pata200mmMarron;;;;recibido
+PED/2025/0013;Proveedor13;OF-25/0013;2025-05-10;2025-05-16;Pata 100mm Blanco;30;1.22;Prov013-Pata100mmBlanco;;;;recibido
+PED/2025/0013;Proveedor13;OF-25/0013;2025-05-10;2025-05-16;Pata 150mm Blanco;30;1.22;Prov013-Pata150mmBlanco;;;;recibido
+PED/2025/0013;Proveedor13;OF-25/0013;2025-05-10;2025-05-16;Pata 200mm Blanco;30;1.22;Prov013-Pata200mmBlanco;;;;recibido
+PED/2025/0014;Proveedor14;OF-25/0014;2025-06-01;2025-06-10;Tirador Modelo1 350mm Negro;20;3.5;Prov014-TiradorModelo1350mmNegro;;;;recibido
+PED/2025/0014;Proveedor14;OF-25/0014;2025-06-01;2025-06-10;Tirador Modelo1 500mm Negro;20;3.5;Prov014-TiradorModelo1500mmNegro;;;;recibido
+PED/2025/0014;Proveedor14;OF-25/0014;2025-06-01;2025-06-10;Tirador Modelo1 60mm Blanco;20;3.5;Prov014-TiradorModelo160mmBlanco;;;;recibido
+PED/2025/0014;Proveedor14;OF-25/0014;2025-06-01;2025-06-10;Tirador Modelo1 100mm Blanco;20;3.5;Prov014-TiradorModelo1100mmBlanco;;;;recibido
+PED/2025/0015;Proveedor15;OF-25/0015;2025-06-19;2025-06-30;Tirador Modelo1 100mm Blanco;20;3.51;Prov015-TiradorModelo1100mmBlanco;;;;recibido
+PED/2025/0015;Proveedor15;OF-25/0015;2025-06-19;2025-06-30;Tirador Modelo1 200mm Blanco;20;3.51;Prov015-TiradorModelo1200mmBlanco;;;;recibido
+PED/2025/0015;Proveedor15;OF-25/0015;2025-06-19;2025-06-30;Tirador Modelo1 350mm Blanco;20;3.51;Prov015-TiradorModelo1350mmBlanco;;;;recibido
+PED/2025/0015;Proveedor15;OF-25/0015;2025-06-19;2025-06-30;Tirador Modelo1 500mm Blanco;20;3.51;Prov015-TiradorModelo1500mmBlanco;;;;recibido
+PED/2025/0016;Proveedor16;OF-25/0016;2025-07-15;2025-07-28;Tirador Modelo1 100mm Latón;30;3.52;Prov016-TiradorModelo1100mmLatón;;;;recibido
+PED/2025/0016;Proveedor16;OF-25/0016;2025-07-15;2025-07-28;Tirador Modelo1 200mm Latón;30;3.52;Prov016-TiradorModelo1200mmLatón;;;;recibido
+PED/2025/0016;Proveedor16;OF-25/0016;2025-07-15;2025-07-28;Tirador Modelo1 350mm Latón;30;3.52;Prov016-TiradorModelo1350mmLatón;;;;recibido
+PED/2025/0017;Proveedor17;OF-25/0017;2025-08-01;2025-08-05;Tirador Modelo2 60mm Negro;20;3.53;Prov017-TiradorModelo260mmNegro;;;;recibido
+PED/2025/0017;Proveedor17;OF-25/0017;2025-08-01;2025-08-05;Tirador Modelo2 100mm Negro;20;3.53;Prov017-TiradorModelo2100mmNegro;;;;recibido
+PED/2025/0017;Proveedor17;OF-25/0017;2025-08-01;2025-08-05;Tirador Modelo2 200mm Negro;20;3.53;Prov017-TiradorModelo2200mmNegro;;;;recibido
+PED/2025/0017;Proveedor17;OF-25/0017;2025-08-01;2025-08-05;Tirador Modelo2 350mm Negro;20;3.53;Prov017-TiradorModelo2350mmNegro;;;;recibido
+PED/2025/0018;Proveedor18;OF-25/0018;2025-09-20;2025-09-30;Tirador Modelo3 60mm Latón;10;3.5;Prov018-TiradorModelo360mmLatón;;;;parcial
+PED/2025/0018;Proveedor18;OF-25/0018;2025-09-20;2025-09-30;Tirador Modelo3 100mm Latón;10;3.5;Prov018-TiradorModelo3100mmLatón;;;;parcial
+PED/2025/0018;Proveedor18;OF-25/0018;2025-09-20;2025-09-30;Tirador Modelo3 200mm Latón;10;3.5;Prov018-TiradorModelo3200mmLatón;;;;parcial
+PED/2025/0018;Proveedor18;OF-25/0018;2025-09-20;2025-09-30;Tirador Modelo3 350mm Latón;10;3.5;Prov018-TiradorModelo3350mmLatón;;;;parcial
+PED/2025/0018;Proveedor18;OF-25/0018;2025-09-20;2025-09-30;Tirador Modelo3 500mm Latón;10;3.5;Prov018-TiradorModelo3500mmLatón;;;;parcial
+PED/2025/0019;Proveedor19;OF-25/0019;2025-09-20;2025-09-28;Tirador Modelo4 100mm Blanco;20;3.51;Prov019-TiradorModelo4100mmBlanco;;;;pendiente
+PED/2025/0019;Proveedor19;OF-25/0019;2025-09-20;2025-09-28;Tirador Modelo4 200mm Blanco;20;3.51;Prov019-TiradorModelo4200mmBlanco;;;;pendiente
+PED/2025/0019;Proveedor19;OF-25/0019;2025-09-20;2025-09-28;Tirador Modelo4 350mm Blanco;20;3.51;Prov019-TiradorModelo4350mmBlanco;;;;pendiente
+PED/2025/0019;Proveedor19;OF-25/0019;2025-09-20;2025-09-28;Tirador Modelo4 500mm Blanco;20;3.51;Prov019-TiradorModelo4500mmBlanco;;;;pendiente
+PED/2025/0020;Proveedor20;OF-25/0020;2025-09-20;2025-10-04;Tirador Modelo4 100mm Latón;30;3.52;Prov020-TiradorModelo4100mmLatón;;;;pendiente
+PED/2025/0020;Proveedor20;OF-25/0020;2025-09-20;2025-10-04;Tirador Modelo4 200mm Latón;30;3.52;Prov020-TiradorModelo4200mmLatón;;;;pendiente
+PED/2025/0020;Proveedor20;OF-25/0020;2025-09-20;2025-10-04;Tirador Modelo4 350mm Latón;30;3.52;Prov020-TiradorModelo4350mmLatón;;;;pendiente
+PED/2025/0020;Proveedor20;OF-25/0020;2025-09-20;2025-10-04;Tirador Modelo4 500mm Latón;30;3.52;Prov020-TiradorModelo4500mmLatón;;;;pendiente
+PED/2025/0021;Proveedor1;OF-25/0021;2025-09-25;2025-09-30;Bisagra Cromo Mate 30Kg;20;4.8;Prov001-BisagraCromoMate30Kg;;;;pendiente
+PED/2025/0021;Proveedor1;OF-25/0021;2025-09-25;2025-09-30;Bisagra Cromo Mate 70Kg;20;4.8;Prov001-BisagraCromoMate70Kg;;;;pendiente
+PED/2025/0021;Proveedor1;OF-25/0021;2025-09-25;2025-09-30;Bisagra Cromo Brillo 30Kg;20;4.8;Prov001-BisagraCromoBrillo30Kg;;;;pendiente
+PED/2025/0021;Proveedor1;OF-25/0021;2025-09-25;2025-09-30;Bisagra Cromo Brillo 70Kg;20;4.8;Prov001-BisagraCromoBrillo70Kg;;;;pendiente

@@ -1,0 +1,386 @@
+producto;proveedor;referenciaProveedor;precioUnitario;cantidadMinima;moneda
+Tornillo 3,5x16 Niquel;Proveedor1;Prov001-Tornillo35x16Niquel;0.05;250;EUR
+Tornillo 3,5x16 Niquel;Proveedor2;Prov002-Tornillo35x16Niquel;0.06;500;EUR
+Tornillo 3,5x16 Niquel;Proveedor3;Prov003-Tornillo35x16Niquel;0.07;750;EUR
+Tornillo 3,5x16 Niquel;Proveedor4;Prov004-Tornillo35x16Niquel;0.08;1000;EUR
+Tornillo 3,5x16 Niquel;Proveedor5;Prov005-Tornillo35x16Niquel;0.09;1250;EUR
+Tornillo 3,5x16 Niquel;Proveedor6;Prov006-Tornillo35x16Niquel;0.1;1500;EUR
+Tornillo 3,5x20 Niquel;Proveedor1;Prov001-Tornillo35x20Niquel;0.05;250;EUR
+Tornillo 3,5x20 Niquel;Proveedor2;Prov002-Tornillo35x20Niquel;0.06;500;EUR
+Tornillo 3,5x20 Niquel;Proveedor3;Prov003-Tornillo35x20Niquel;0.07;750;EUR
+Tornillo 3,5x20 Niquel;Proveedor4;Prov004-Tornillo35x20Niquel;0.08;1000;EUR
+Tornillo 3,5x20 Niquel;Proveedor5;Prov005-Tornillo35x20Niquel;0.09;1250;EUR
+Tornillo 3,5x20 Niquel;Proveedor6;Prov006-Tornillo35x20Niquel;0.1;1500;EUR
+Tornillo 3,5x25 Niquel;Proveedor1;Prov001-Tornillo35x25Niquel;0.05;250;EUR
+Tornillo 3,5x25 Niquel;Proveedor2;Prov002-Tornillo35x25Niquel;0.06;500;EUR
+Tornillo 3,5x25 Niquel;Proveedor3;Prov003-Tornillo35x25Niquel;0.07;750;EUR
+Tornillo 3,5x25 Niquel;Proveedor4;Prov004-Tornillo35x25Niquel;0.08;1000;EUR
+Tornillo 3,5x25 Niquel;Proveedor5;Prov005-Tornillo35x25Niquel;0.09;1250;EUR
+Tornillo 3,5x25 Niquel;Proveedor6;Prov006-Tornillo35x25Niquel;0.1;1500;EUR
+Tornillo 3,5x30 Niquel;Proveedor1;Prov001-Tornillo35x30Niquel;0.05;250;EUR
+Tornillo 3,5x30 Niquel;Proveedor2;Prov002-Tornillo35x30Niquel;0.06;500;EUR
+Tornillo 3,5x30 Niquel;Proveedor3;Prov003-Tornillo35x30Niquel;0.07;750;EUR
+Tornillo 3,5x30 Niquel;Proveedor4;Prov004-Tornillo35x30Niquel;0.08;1000;EUR
+Tornillo 3,5x30 Niquel;Proveedor5;Prov005-Tornillo35x30Niquel;0.09;1250;EUR
+Tornillo 3,5x30 Niquel;Proveedor6;Prov006-Tornillo35x30Niquel;0.1;1500;EUR
+Tornillo 3,5x35 Niquel;Proveedor1;Prov001-Tornillo35x35Niquel;0.05;250;EUR
+Tornillo 3,5x35 Niquel;Proveedor2;Prov002-Tornillo35x35Niquel;0.06;500;EUR
+Tornillo 3,5x35 Niquel;Proveedor3;Prov003-Tornillo35x35Niquel;0.07;750;EUR
+Tornillo 3,5x35 Niquel;Proveedor4;Prov004-Tornillo35x35Niquel;0.08;1000;EUR
+Tornillo 3,5x35 Niquel;Proveedor5;Prov005-Tornillo35x35Niquel;0.09;1250;EUR
+Tornillo 3,5x35 Niquel;Proveedor6;Prov006-Tornillo35x35Niquel;0.1;1500;EUR
+Tornillo 3,5x50 Niquel;Proveedor1;Prov001-Tornillo35x50Niquel;0.05;250;EUR
+Tornillo 3,5x50 Niquel;Proveedor2;Prov002-Tornillo35x50Niquel;0.06;500;EUR
+Tornillo 3,5x50 Niquel;Proveedor3;Prov003-Tornillo35x50Niquel;0.07;750;EUR
+Tornillo 3,5x50 Niquel;Proveedor4;Prov004-Tornillo35x50Niquel;0.08;1000;EUR
+Tornillo 3,5x50 Niquel;Proveedor5;Prov005-Tornillo35x50Niquel;0.09;1250;EUR
+Tornillo 3,5x50 Niquel;Proveedor6;Prov006-Tornillo35x50Niquel;0.1;1500;EUR
+Tornillo 4x70 Niquel;Proveedor1;Prov001-Tornillo4x70Niquel;0.05;250;EUR
+Tornillo 4x70 Niquel;Proveedor2;Prov002-Tornillo4x70Niquel;0.06;500;EUR
+Tornillo 4x70 Niquel;Proveedor3;Prov003-Tornillo4x70Niquel;0.07;750;EUR
+Tornillo 4x70 Niquel;Proveedor4;Prov004-Tornillo4x70Niquel;0.08;1000;EUR
+Tornillo 4x70 Niquel;Proveedor5;Prov005-Tornillo4x70Niquel;0.09;1250;EUR
+Tornillo 4x70 Niquel;Proveedor6;Prov006-Tornillo4x70Niquel;0.1;1500;EUR
+Tornillo 3,5x16 Negro;Proveedor1;Prov001-Tornillo35x16Negro;0.05;250;EUR
+Tornillo 3,5x16 Negro;Proveedor2;Prov002-Tornillo35x16Negro;0.06;500;EUR
+Tornillo 3,5x16 Negro;Proveedor3;Prov003-Tornillo35x16Negro;0.07;750;EUR
+Tornillo 3,5x16 Negro;Proveedor4;Prov004-Tornillo35x16Negro;0.08;1000;EUR
+Tornillo 3,5x16 Negro;Proveedor5;Prov005-Tornillo35x16Negro;0.09;1250;EUR
+Tornillo 3,5x16 Negro;Proveedor6;Prov006-Tornillo35x16Negro;0.1;1500;EUR
+Tornillo 3,5x20 Negro;Proveedor1;Prov001-Tornillo35x20Negro;0.05;250;EUR
+Tornillo 3,5x20 Negro;Proveedor2;Prov002-Tornillo35x20Negro;0.06;500;EUR
+Tornillo 3,5x20 Negro;Proveedor3;Prov003-Tornillo35x20Negro;0.07;750;EUR
+Tornillo 3,5x20 Negro;Proveedor4;Prov004-Tornillo35x20Negro;0.08;1000;EUR
+Tornillo 3,5x20 Negro;Proveedor5;Prov005-Tornillo35x20Negro;0.09;1250;EUR
+Tornillo 3,5x20 Negro;Proveedor6;Prov006-Tornillo35x20Negro;0.1;1500;EUR
+Tornillo 3,5x25 Negro;Proveedor1;Prov001-Tornillo35x25Negro;0.05;250;EUR
+Tornillo 3,5x25 Negro;Proveedor2;Prov002-Tornillo35x25Negro;0.06;500;EUR
+Tornillo 3,5x25 Negro;Proveedor3;Prov003-Tornillo35x25Negro;0.07;750;EUR
+Tornillo 3,5x25 Negro;Proveedor4;Prov004-Tornillo35x25Negro;0.08;1000;EUR
+Tornillo 3,5x25 Negro;Proveedor5;Prov005-Tornillo35x25Negro;0.09;1250;EUR
+Tornillo 3,5x25 Negro;Proveedor6;Prov006-Tornillo35x25Negro;0.1;1500;EUR
+Tornillo 3,5x30 Negro;Proveedor1;Prov001-Tornillo35x30Negro;0.05;250;EUR
+Tornillo 3,5x30 Negro;Proveedor2;Prov002-Tornillo35x30Negro;0.06;500;EUR
+Tornillo 3,5x30 Negro;Proveedor3;Prov003-Tornillo35x30Negro;0.07;750;EUR
+Tornillo 3,5x30 Negro;Proveedor4;Prov004-Tornillo35x30Negro;0.08;1000;EUR
+Tornillo 3,5x30 Negro;Proveedor5;Prov005-Tornillo35x30Negro;0.09;1250;EUR
+Tornillo 3,5x30 Negro;Proveedor6;Prov006-Tornillo35x30Negro;0.1;1500;EUR
+Tornillo 3,5x35 Negro;Proveedor1;Prov001-Tornillo35x35Negro;0.05;250;EUR
+Tornillo 3,5x35 Negro;Proveedor2;Prov002-Tornillo35x35Negro;0.06;500;EUR
+Tornillo 3,5x35 Negro;Proveedor3;Prov003-Tornillo35x35Negro;0.07;750;EUR
+Tornillo 3,5x35 Negro;Proveedor4;Prov004-Tornillo35x35Negro;0.08;1000;EUR
+Tornillo 3,5x35 Negro;Proveedor5;Prov005-Tornillo35x35Negro;0.09;1250;EUR
+Tornillo 3,5x35 Negro;Proveedor6;Prov006-Tornillo35x35Negro;0.1;1500;EUR
+Tornillo 3,5x50 Negro;Proveedor1;Prov001-Tornillo35x50Negro;0.05;250;EUR
+Tornillo 3,5x50 Negro;Proveedor2;Prov002-Tornillo35x50Negro;0.06;500;EUR
+Tornillo 3,5x50 Negro;Proveedor3;Prov003-Tornillo35x50Negro;0.07;750;EUR
+Tornillo 3,5x50 Negro;Proveedor4;Prov004-Tornillo35x50Negro;0.08;1000;EUR
+Tornillo 3,5x50 Negro;Proveedor5;Prov005-Tornillo35x50Negro;0.09;1250;EUR
+Tornillo 3,5x50 Negro;Proveedor6;Prov006-Tornillo35x50Negro;0.1;1500;EUR
+Tornillo 4x70 Negro;Proveedor1;Prov001-Tornillo4x70Negro;0.05;250;EUR
+Tornillo 4x70 Negro;Proveedor2;Prov002-Tornillo4x70Negro;0.06;500;EUR
+Tornillo 4x70 Negro;Proveedor3;Prov003-Tornillo4x70Negro;0.07;750;EUR
+Tornillo 4x70 Negro;Proveedor4;Prov004-Tornillo4x70Negro;0.08;1000;EUR
+Tornillo 4x70 Negro;Proveedor5;Prov005-Tornillo4x70Negro;0.09;1250;EUR
+Tornillo 4x70 Negro;Proveedor6;Prov006-Tornillo4x70Negro;0.1;1500;EUR
+Guia 300mm Push;Proveedor7;Prov007-Guia300mmPush;6.5;10;EUR
+Guia 300mm Push;Proveedor8;Prov008-Guia300mmPush;6.51;20;EUR
+Guia 300mm Push;Proveedor9;Prov009-Guia300mmPush;6.52;30;EUR
+Guia 300mm Push;Proveedor10;Prov010-Guia300mmPush;6.53;40;EUR
+Guia 350mm Push;Proveedor7;Prov007-Guia350mmPush;6.5;10;EUR
+Guia 350mm Push;Proveedor8;Prov008-Guia350mmPush;6.51;20;EUR
+Guia 350mm Push;Proveedor9;Prov009-Guia350mmPush;6.52;30;EUR
+Guia 350mm Push;Proveedor10;Prov010-Guia350mmPush;6.53;40;EUR
+Guia 400mm Push;Proveedor7;Prov007-Guia400mmPush;6.5;10;EUR
+Guia 400mm Push;Proveedor8;Prov008-Guia400mmPush;6.51;20;EUR
+Guia 400mm Push;Proveedor9;Prov009-Guia400mmPush;6.52;30;EUR
+Guia 400mm Push;Proveedor10;Prov010-Guia400mmPush;6.53;40;EUR
+Guia 450mm Push;Proveedor7;Prov007-Guia450mmPush;6.5;10;EUR
+Guia 450mm Push;Proveedor8;Prov008-Guia450mmPush;6.51;20;EUR
+Guia 450mm Push;Proveedor9;Prov009-Guia450mmPush;6.52;30;EUR
+Guia 450mm Push;Proveedor10;Prov010-Guia450mmPush;6.53;40;EUR
+Guia 500mm Push;Proveedor7;Prov007-Guia500mmPush;6.5;10;EUR
+Guia 500mm Push;Proveedor8;Prov008-Guia500mmPush;6.51;20;EUR
+Guia 500mm Push;Proveedor9;Prov009-Guia500mmPush;6.52;30;EUR
+Guia 500mm Push;Proveedor10;Prov010-Guia500mmPush;6.53;40;EUR
+Guia 550mm Push;Proveedor7;Prov007-Guia550mmPush;6.5;10;EUR
+Guia 550mm Push;Proveedor8;Prov008-Guia550mmPush;6.51;20;EUR
+Guia 550mm Push;Proveedor9;Prov009-Guia550mmPush;6.52;30;EUR
+Guia 550mm Push;Proveedor10;Prov010-Guia550mmPush;6.53;40;EUR
+Guia 600mm Push;Proveedor7;Prov007-Guia600mmPush;6.5;10;EUR
+Guia 600mm Push;Proveedor8;Prov008-Guia600mmPush;6.51;20;EUR
+Guia 600mm Push;Proveedor9;Prov009-Guia600mmPush;6.52;30;EUR
+Guia 600mm Push;Proveedor10;Prov010-Guia600mmPush;6.53;40;EUR
+Guia 300mm Sin Push;Proveedor7;Prov007-Guia300mmSinPush;6.5;10;EUR
+Guia 300mm Sin Push;Proveedor8;Prov008-Guia300mmSinPush;6.51;20;EUR
+Guia 300mm Sin Push;Proveedor9;Prov009-Guia300mmSinPush;6.52;30;EUR
+Guia 300mm Sin Push;Proveedor10;Prov010-Guia300mmSinPush;6.53;40;EUR
+Guia 350mm Sin Push;Proveedor7;Prov007-Guia350mmSinPush;6.5;10;EUR
+Guia 350mm Sin Push;Proveedor8;Prov008-Guia350mmSinPush;6.51;20;EUR
+Guia 350mm Sin Push;Proveedor9;Prov009-Guia350mmSinPush;6.52;30;EUR
+Guia 350mm Sin Push;Proveedor10;Prov010-Guia350mmSinPush;6.53;40;EUR
+Guia 400mm Sin Push;Proveedor7;Prov007-Guia400mmSinPush;6.5;10;EUR
+Guia 400mm Sin Push;Proveedor8;Prov008-Guia400mmSinPush;6.51;20;EUR
+Guia 400mm Sin Push;Proveedor9;Prov009-Guia400mmSinPush;6.52;30;EUR
+Guia 400mm Sin Push;Proveedor10;Prov010-Guia400mmSinPush;6.53;40;EUR
+Guia 450mm Sin Push;Proveedor7;Prov007-Guia450mmSinPush;6.5;10;EUR
+Guia 450mm Sin Push;Proveedor8;Prov008-Guia450mmSinPush;6.51;20;EUR
+Guia 450mm Sin Push;Proveedor9;Prov009-Guia450mmSinPush;6.52;30;EUR
+Guia 450mm Sin Push;Proveedor10;Prov010-Guia450mmSinPush;6.53;40;EUR
+Guia 500mm Sin Push;Proveedor7;Prov007-Guia500mmSinPush;6.5;10;EUR
+Guia 500mm Sin Push;Proveedor8;Prov008-Guia500mmSinPush;6.51;20;EUR
+Guia 500mm Sin Push;Proveedor9;Prov009-Guia500mmSinPush;6.52;30;EUR
+Guia 500mm Sin Push;Proveedor10;Prov010-Guia500mmSinPush;6.53;40;EUR
+Guia 550mm Sin Push;Proveedor7;Prov007-Guia550mmSinPush;6.5;10;EUR
+Guia 550mm Sin Push;Proveedor8;Prov008-Guia550mmSinPush;6.51;20;EUR
+Guia 550mm Sin Push;Proveedor9;Prov009-Guia550mmSinPush;6.52;30;EUR
+Guia 550mm Sin Push;Proveedor10;Prov010-Guia550mmSinPush;6.53;40;EUR
+Guia 600mm Sin Push;Proveedor7;Prov007-Guia600mmSinPush;6.5;10;EUR
+Guia 600mm Sin Push;Proveedor8;Prov008-Guia600mmSinPush;6.51;20;EUR
+Guia 600mm Sin Push;Proveedor9;Prov009-Guia600mmSinPush;6.52;30;EUR
+Guia 600mm Sin Push;Proveedor10;Prov010-Guia600mmSinPush;6.53;40;EUR
+Pata 100mm Negro;Proveedor11;Prov011-Pata100mmNegro;1.2;5;EUR
+Pata 100mm Negro;Proveedor12;Prov012-Pata100mmNegro;1.21;10;EUR
+Pata 100mm Negro;Proveedor13;Prov013-Pata100mmNegro;1.22;15;EUR
+Pata 150mm Negro;Proveedor11;Prov011-Pata150mmNegro;1.2;5;EUR
+Pata 150mm Negro;Proveedor12;Prov012-Pata150mmNegro;1.21;10;EUR
+Pata 150mm Negro;Proveedor13;Prov013-Pata150mmNegro;1.22;15;EUR
+Pata 200mm Negro;Proveedor11;Prov011-Pata200mmNegro;1.2;5;EUR
+Pata 200mm Negro;Proveedor12;Prov012-Pata200mmNegro;1.21;10;EUR
+Pata 200mm Negro;Proveedor13;Prov013-Pata200mmNegro;1.22;15;EUR
+Pata 100mm Marron;Proveedor11;Prov011-Pata100mmMarron;1.2;5;EUR
+Pata 100mm Marron;Proveedor12;Prov012-Pata100mmMarron;1.21;10;EUR
+Pata 100mm Marron;Proveedor13;Prov013-Pata100mmMarron;1.22;15;EUR
+Pata 150mm Marron;Proveedor11;Prov011-Pata150mmMarron;1.2;5;EUR
+Pata 150mm Marron;Proveedor12;Prov012-Pata150mmMarron;1.21;10;EUR
+Pata 150mm Marron;Proveedor13;Prov013-Pata150mmMarron;1.22;15;EUR
+Pata 200mm Marron;Proveedor11;Prov011-Pata200mmMarron;1.2;5;EUR
+Pata 200mm Marron;Proveedor12;Prov012-Pata200mmMarron;1.21;10;EUR
+Pata 200mm Marron;Proveedor13;Prov013-Pata200mmMarron;1.22;15;EUR
+Pata 100mm Blanco;Proveedor11;Prov011-Pata100mmBlanco;1.2;5;EUR
+Pata 100mm Blanco;Proveedor12;Prov012-Pata100mmBlanco;1.21;10;EUR
+Pata 100mm Blanco;Proveedor13;Prov013-Pata100mmBlanco;1.22;15;EUR
+Pata 150mm Blanco;Proveedor11;Prov011-Pata150mmBlanco;1.2;5;EUR
+Pata 150mm Blanco;Proveedor12;Prov012-Pata150mmBlanco;1.21;10;EUR
+Pata 150mm Blanco;Proveedor13;Prov013-Pata150mmBlanco;1.22;15;EUR
+Pata 200mm Blanco;Proveedor11;Prov011-Pata200mmBlanco;1.2;5;EUR
+Pata 200mm Blanco;Proveedor12;Prov012-Pata200mmBlanco;1.21;10;EUR
+Pata 200mm Blanco;Proveedor13;Prov013-Pata200mmBlanco;1.22;15;EUR
+Tirador Modelo1 60mm Negro;Proveedor14;Prov014-TiradorModelo160mmNegro;3.5;5;EUR
+Tirador Modelo1 60mm Negro;Proveedor15;Prov015-TiradorModelo160mmNegro;3.51;10;EUR
+Tirador Modelo1 60mm Negro;Proveedor16;Prov016-TiradorModelo160mmNegro;3.52;15;EUR
+Tirador Modelo1 60mm Negro;Proveedor17;Prov017-TiradorModelo160mmNegro;3.53;20;EUR
+Tirador Modelo1 100mm Negro;Proveedor14;Prov014-TiradorModelo1100mmNegro;3.5;5;EUR
+Tirador Modelo1 100mm Negro;Proveedor15;Prov015-TiradorModelo1100mmNegro;3.51;10;EUR
+Tirador Modelo1 100mm Negro;Proveedor16;Prov016-TiradorModelo1100mmNegro;3.52;15;EUR
+Tirador Modelo1 100mm Negro;Proveedor17;Prov017-TiradorModelo1100mmNegro;3.53;20;EUR
+Tirador Modelo1 200mm Negro;Proveedor14;Prov014-TiradorModelo1200mmNegro;3.5;5;EUR
+Tirador Modelo1 200mm Negro;Proveedor15;Prov015-TiradorModelo1200mmNegro;3.51;10;EUR
+Tirador Modelo1 200mm Negro;Proveedor16;Prov016-TiradorModelo1200mmNegro;3.52;15;EUR
+Tirador Modelo1 200mm Negro;Proveedor17;Prov017-TiradorModelo1200mmNegro;3.53;20;EUR
+Tirador Modelo1 350mm Negro;Proveedor14;Prov014-TiradorModelo1350mmNegro;3.5;5;EUR
+Tirador Modelo1 350mm Negro;Proveedor15;Prov015-TiradorModelo1350mmNegro;3.51;10;EUR
+Tirador Modelo1 350mm Negro;Proveedor16;Prov016-TiradorModelo1350mmNegro;3.52;15;EUR
+Tirador Modelo1 350mm Negro;Proveedor17;Prov017-TiradorModelo1350mmNegro;3.53;20;EUR
+Tirador Modelo1 500mm Negro;Proveedor14;Prov014-TiradorModelo1500mmNegro;3.5;5;EUR
+Tirador Modelo1 500mm Negro;Proveedor15;Prov015-TiradorModelo1500mmNegro;3.51;10;EUR
+Tirador Modelo1 500mm Negro;Proveedor16;Prov016-TiradorModelo1500mmNegro;3.52;15;EUR
+Tirador Modelo1 500mm Negro;Proveedor17;Prov017-TiradorModelo1500mmNegro;3.53;20;EUR
+Tirador Modelo1 60mm Blanco;Proveedor14;Prov014-TiradorModelo160mmBlanco;3.5;5;EUR
+Tirador Modelo1 60mm Blanco;Proveedor15;Prov015-TiradorModelo160mmBlanco;3.51;10;EUR
+Tirador Modelo1 60mm Blanco;Proveedor16;Prov016-TiradorModelo160mmBlanco;3.52;15;EUR
+Tirador Modelo1 60mm Blanco;Proveedor17;Prov017-TiradorModelo160mmBlanco;3.53;20;EUR
+Tirador Modelo1 100mm Blanco;Proveedor14;Prov014-TiradorModelo1100mmBlanco;3.5;5;EUR
+Tirador Modelo1 100mm Blanco;Proveedor15;Prov015-TiradorModelo1100mmBlanco;3.51;10;EUR
+Tirador Modelo1 100mm Blanco;Proveedor16;Prov016-TiradorModelo1100mmBlanco;3.52;15;EUR
+Tirador Modelo1 100mm Blanco;Proveedor17;Prov017-TiradorModelo1100mmBlanco;3.53;20;EUR
+Tirador Modelo1 200mm Blanco;Proveedor14;Prov014-TiradorModelo1200mmBlanco;3.5;5;EUR
+Tirador Modelo1 200mm Blanco;Proveedor15;Prov015-TiradorModelo1200mmBlanco;3.51;10;EUR
+Tirador Modelo1 200mm Blanco;Proveedor16;Prov016-TiradorModelo1200mmBlanco;3.52;15;EUR
+Tirador Modelo1 200mm Blanco;Proveedor17;Prov017-TiradorModelo1200mmBlanco;3.53;20;EUR
+Tirador Modelo1 350mm Blanco;Proveedor14;Prov014-TiradorModelo1350mmBlanco;3.5;5;EUR
+Tirador Modelo1 350mm Blanco;Proveedor15;Prov015-TiradorModelo1350mmBlanco;3.51;10;EUR
+Tirador Modelo1 350mm Blanco;Proveedor16;Prov016-TiradorModelo1350mmBlanco;3.52;15;EUR
+Tirador Modelo1 350mm Blanco;Proveedor17;Prov017-TiradorModelo1350mmBlanco;3.53;20;EUR
+Tirador Modelo1 500mm Blanco;Proveedor14;Prov014-TiradorModelo1500mmBlanco;3.5;5;EUR
+Tirador Modelo1 500mm Blanco;Proveedor15;Prov015-TiradorModelo1500mmBlanco;3.51;10;EUR
+Tirador Modelo1 500mm Blanco;Proveedor16;Prov016-TiradorModelo1500mmBlanco;3.52;15;EUR
+Tirador Modelo1 500mm Blanco;Proveedor17;Prov017-TiradorModelo1500mmBlanco;3.53;20;EUR
+Tirador Modelo1 60mm Latón;Proveedor14;Prov014-TiradorModelo160mmLatón;3.5;5;EUR
+Tirador Modelo1 60mm Latón;Proveedor15;Prov015-TiradorModelo160mmLatón;3.51;10;EUR
+Tirador Modelo1 60mm Latón;Proveedor16;Prov016-TiradorModelo160mmLatón;3.52;15;EUR
+Tirador Modelo1 60mm Latón;Proveedor17;Prov017-TiradorModelo160mmLatón;3.53;20;EUR
+Tirador Modelo1 100mm Latón;Proveedor14;Prov014-TiradorModelo1100mmLatón;3.5;5;EUR
+Tirador Modelo1 100mm Latón;Proveedor15;Prov015-TiradorModelo1100mmLatón;3.51;10;EUR
+Tirador Modelo1 100mm Latón;Proveedor16;Prov016-TiradorModelo1100mmLatón;3.52;15;EUR
+Tirador Modelo1 100mm Latón;Proveedor17;Prov017-TiradorModelo1100mmLatón;3.53;20;EUR
+Tirador Modelo1 200mm Latón;Proveedor14;Prov014-TiradorModelo1200mmLatón;3.5;5;EUR
+Tirador Modelo1 200mm Latón;Proveedor15;Prov015-TiradorModelo1200mmLatón;3.51;10;EUR
+Tirador Modelo1 200mm Latón;Proveedor16;Prov016-TiradorModelo1200mmLatón;3.52;15;EUR
+Tirador Modelo1 200mm Latón;Proveedor17;Prov017-TiradorModelo1200mmLatón;3.53;20;EUR
+Tirador Modelo1 350mm Latón;Proveedor14;Prov014-TiradorModelo1350mmLatón;3.5;5;EUR
+Tirador Modelo1 350mm Latón;Proveedor15;Prov015-TiradorModelo1350mmLatón;3.51;10;EUR
+Tirador Modelo1 350mm Latón;Proveedor16;Prov016-TiradorModelo1350mmLatón;3.52;15;EUR
+Tirador Modelo1 350mm Latón;Proveedor17;Prov017-TiradorModelo1350mmLatón;3.53;20;EUR
+Tirador Modelo1 500mm Latón;Proveedor14;Prov014-TiradorModelo1500mmLatón;3.5;5;EUR
+Tirador Modelo1 500mm Latón;Proveedor15;Prov015-TiradorModelo1500mmLatón;3.51;10;EUR
+Tirador Modelo1 500mm Latón;Proveedor16;Prov016-TiradorModelo1500mmLatón;3.52;15;EUR
+Tirador Modelo1 500mm Latón;Proveedor17;Prov017-TiradorModelo1500mmLatón;3.53;20;EUR
+Tirador Modelo2 60mm Negro;Proveedor14;Prov014-TiradorModelo260mmNegro;3.5;5;EUR
+Tirador Modelo2 60mm Negro;Proveedor15;Prov015-TiradorModelo260mmNegro;3.51;10;EUR
+Tirador Modelo2 60mm Negro;Proveedor16;Prov016-TiradorModelo260mmNegro;3.52;15;EUR
+Tirador Modelo2 60mm Negro;Proveedor17;Prov017-TiradorModelo260mmNegro;3.53;20;EUR
+Tirador Modelo2 100mm Negro;Proveedor14;Prov014-TiradorModelo2100mmNegro;3.5;5;EUR
+Tirador Modelo2 100mm Negro;Proveedor15;Prov015-TiradorModelo2100mmNegro;3.51;10;EUR
+Tirador Modelo2 100mm Negro;Proveedor16;Prov016-TiradorModelo2100mmNegro;3.52;15;EUR
+Tirador Modelo2 100mm Negro;Proveedor17;Prov017-TiradorModelo2100mmNegro;3.53;20;EUR
+Tirador Modelo2 200mm Negro;Proveedor14;Prov014-TiradorModelo2200mmNegro;3.5;5;EUR
+Tirador Modelo2 200mm Negro;Proveedor15;Prov015-TiradorModelo2200mmNegro;3.51;10;EUR
+Tirador Modelo2 200mm Negro;Proveedor16;Prov016-TiradorModelo2200mmNegro;3.52;15;EUR
+Tirador Modelo2 200mm Negro;Proveedor17;Prov017-TiradorModelo2200mmNegro;3.53;20;EUR
+Tirador Modelo2 350mm Negro;Proveedor14;Prov014-TiradorModelo2350mmNegro;3.5;5;EUR
+Tirador Modelo2 350mm Negro;Proveedor15;Prov015-TiradorModelo2350mmNegro;3.51;10;EUR
+Tirador Modelo2 350mm Negro;Proveedor16;Prov016-TiradorModelo2350mmNegro;3.52;15;EUR
+Tirador Modelo2 350mm Negro;Proveedor17;Prov017-TiradorModelo2350mmNegro;3.53;20;EUR
+Tirador Modelo2 500mm Negro;Proveedor14;Prov014-TiradorModelo2500mmNegro;3.5;5;EUR
+Tirador Modelo2 500mm Negro;Proveedor15;Prov015-TiradorModelo2500mmNegro;3.51;10;EUR
+Tirador Modelo2 500mm Negro;Proveedor16;Prov016-TiradorModelo2500mmNegro;3.52;15;EUR
+Tirador Modelo2 500mm Negro;Proveedor17;Prov017-TiradorModelo2500mmNegro;3.53;20;EUR
+Tirador Modelo2 60mm Blanco;Proveedor14;Prov014-TiradorModelo260mmBlanco;3.5;5;EUR
+Tirador Modelo2 60mm Blanco;Proveedor15;Prov015-TiradorModelo260mmBlanco;3.51;10;EUR
+Tirador Modelo2 60mm Blanco;Proveedor16;Prov016-TiradorModelo260mmBlanco;3.52;15;EUR
+Tirador Modelo2 60mm Blanco;Proveedor17;Prov017-TiradorModelo260mmBlanco;3.53;20;EUR
+Tirador Modelo2 100mm Blanco;Proveedor14;Prov014-TiradorModelo2100mmBlanco;3.5;5;EUR
+Tirador Modelo2 100mm Blanco;Proveedor15;Prov015-TiradorModelo2100mmBlanco;3.51;10;EUR
+Tirador Modelo2 100mm Blanco;Proveedor16;Prov016-TiradorModelo2100mmBlanco;3.52;15;EUR
+Tirador Modelo2 100mm Blanco;Proveedor17;Prov017-TiradorModelo2100mmBlanco;3.53;20;EUR
+Tirador Modelo2 200mm Blanco;Proveedor14;Prov014-TiradorModelo2200mmBlanco;3.5;5;EUR
+Tirador Modelo2 200mm Blanco;Proveedor15;Prov015-TiradorModelo2200mmBlanco;3.51;10;EUR
+Tirador Modelo2 200mm Blanco;Proveedor16;Prov016-TiradorModelo2200mmBlanco;3.52;15;EUR
+Tirador Modelo2 200mm Blanco;Proveedor17;Prov017-TiradorModelo2200mmBlanco;3.53;20;EUR
+Tirador Modelo2 350mm Blanco;Proveedor14;Prov014-TiradorModelo2350mmBlanco;3.5;5;EUR
+Tirador Modelo2 350mm Blanco;Proveedor15;Prov015-TiradorModelo2350mmBlanco;3.51;10;EUR
+Tirador Modelo2 350mm Blanco;Proveedor16;Prov016-TiradorModelo2350mmBlanco;3.52;15;EUR
+Tirador Modelo2 350mm Blanco;Proveedor17;Prov017-TiradorModelo2350mmBlanco;3.53;20;EUR
+Tirador Modelo2 500mm Blanco;Proveedor14;Prov014-TiradorModelo2500mmBlanco;3.5;5;EUR
+Tirador Modelo2 500mm Blanco;Proveedor15;Prov015-TiradorModelo2500mmBlanco;3.51;10;EUR
+Tirador Modelo2 500mm Blanco;Proveedor16;Prov016-TiradorModelo2500mmBlanco;3.52;15;EUR
+Tirador Modelo2 500mm Blanco;Proveedor17;Prov017-TiradorModelo2500mmBlanco;3.53;20;EUR
+Tirador Modelo2 60mm Latón;Proveedor14;Prov014-TiradorModelo260mmLatón;3.5;5;EUR
+Tirador Modelo2 60mm Latón;Proveedor15;Prov015-TiradorModelo260mmLatón;3.51;10;EUR
+Tirador Modelo2 60mm Latón;Proveedor16;Prov016-TiradorModelo260mmLatón;3.52;15;EUR
+Tirador Modelo2 60mm Latón;Proveedor17;Prov017-TiradorModelo260mmLatón;3.53;20;EUR
+Tirador Modelo2 100mm Latón;Proveedor14;Prov014-TiradorModelo2100mmLatón;3.5;5;EUR
+Tirador Modelo2 100mm Latón;Proveedor15;Prov015-TiradorModelo2100mmLatón;3.51;10;EUR
+Tirador Modelo2 100mm Latón;Proveedor16;Prov016-TiradorModelo2100mmLatón;3.52;15;EUR
+Tirador Modelo2 100mm Latón;Proveedor17;Prov017-TiradorModelo2100mmLatón;3.53;20;EUR
+Tirador Modelo2 200mm Latón;Proveedor14;Prov014-TiradorModelo2200mmLatón;3.5;5;EUR
+Tirador Modelo2 200mm Latón;Proveedor15;Prov015-TiradorModelo2200mmLatón;3.51;10;EUR
+Tirador Modelo2 200mm Latón;Proveedor16;Prov016-TiradorModelo2200mmLatón;3.52;15;EUR
+Tirador Modelo2 200mm Latón;Proveedor17;Prov017-TiradorModelo2200mmLatón;3.53;20;EUR
+Tirador Modelo2 350mm Latón;Proveedor14;Prov014-TiradorModelo2350mmLatón;3.5;5;EUR
+Tirador Modelo2 350mm Latón;Proveedor15;Prov015-TiradorModelo2350mmLatón;3.51;10;EUR
+Tirador Modelo2 350mm Latón;Proveedor16;Prov016-TiradorModelo2350mmLatón;3.52;15;EUR
+Tirador Modelo2 350mm Latón;Proveedor17;Prov017-TiradorModelo2350mmLatón;3.53;20;EUR
+Tirador Modelo2 500mm Latón;Proveedor14;Prov014-TiradorModelo2500mmLatón;3.5;5;EUR
+Tirador Modelo2 500mm Latón;Proveedor15;Prov015-TiradorModelo2500mmLatón;3.51;10;EUR
+Tirador Modelo2 500mm Latón;Proveedor16;Prov016-TiradorModelo2500mmLatón;3.52;15;EUR
+Tirador Modelo2 500mm Latón;Proveedor17;Prov017-TiradorModelo2500mmLatón;3.53;20;EUR
+Tirador Modelo3 60mm Negro;Proveedor18;Prov018-TiradorModelo360mmNegro;3.5;5;EUR
+Tirador Modelo3 60mm Negro;Proveedor19;Prov019-TiradorModelo360mmNegro;3.51;10;EUR
+Tirador Modelo3 60mm Negro;Proveedor20;Prov020-TiradorModelo360mmNegro;3.52;15;EUR
+Tirador Modelo3 100mm Negro;Proveedor18;Prov018-TiradorModelo3100mmNegro;3.5;5;EUR
+Tirador Modelo3 100mm Negro;Proveedor19;Prov019-TiradorModelo3100mmNegro;3.51;10;EUR
+Tirador Modelo3 100mm Negro;Proveedor20;Prov020-TiradorModelo3100mmNegro;3.52;15;EUR
+Tirador Modelo3 200mm Negro;Proveedor18;Prov018-TiradorModelo3200mmNegro;3.5;5;EUR
+Tirador Modelo3 200mm Negro;Proveedor19;Prov019-TiradorModelo3200mmNegro;3.51;10;EUR
+Tirador Modelo3 200mm Negro;Proveedor20;Prov020-TiradorModelo3200mmNegro;3.52;15;EUR
+Tirador Modelo3 350mm Negro;Proveedor18;Prov018-TiradorModelo3350mmNegro;3.5;5;EUR
+Tirador Modelo3 350mm Negro;Proveedor19;Prov019-TiradorModelo3350mmNegro;3.51;10;EUR
+Tirador Modelo3 350mm Negro;Proveedor20;Prov020-TiradorModelo3350mmNegro;3.52;15;EUR
+Tirador Modelo3 500mm Negro;Proveedor18;Prov018-TiradorModelo3500mmNegro;3.5;5;EUR
+Tirador Modelo3 500mm Negro;Proveedor19;Prov019-TiradorModelo3500mmNegro;3.51;10;EUR
+Tirador Modelo3 500mm Negro;Proveedor20;Prov020-TiradorModelo3500mmNegro;3.52;15;EUR
+Tirador Modelo3 60mm Blanco;Proveedor18;Prov018-TiradorModelo360mmBlanco;3.5;5;EUR
+Tirador Modelo3 60mm Blanco;Proveedor19;Prov019-TiradorModelo360mmBlanco;3.51;10;EUR
+Tirador Modelo3 60mm Blanco;Proveedor20;Prov020-TiradorModelo360mmBlanco;3.52;15;EUR
+Tirador Modelo3 100mm Blanco;Proveedor18;Prov018-TiradorModelo3100mmBlanco;3.5;5;EUR
+Tirador Modelo3 100mm Blanco;Proveedor19;Prov019-TiradorModelo3100mmBlanco;3.51;10;EUR
+Tirador Modelo3 100mm Blanco;Proveedor20;Prov020-TiradorModelo3100mmBlanco;3.52;15;EUR
+Tirador Modelo3 200mm Blanco;Proveedor18;Prov018-TiradorModelo3200mmBlanco;3.5;5;EUR
+Tirador Modelo3 200mm Blanco;Proveedor19;Prov019-TiradorModelo3200mmBlanco;3.51;10;EUR
+Tirador Modelo3 200mm Blanco;Proveedor20;Prov020-TiradorModelo3200mmBlanco;3.52;15;EUR
+Tirador Modelo3 350mm Blanco;Proveedor18;Prov018-TiradorModelo3350mmBlanco;3.5;5;EUR
+Tirador Modelo3 350mm Blanco;Proveedor19;Prov019-TiradorModelo3350mmBlanco;3.51;10;EUR
+Tirador Modelo3 350mm Blanco;Proveedor20;Prov020-TiradorModelo3350mmBlanco;3.52;15;EUR
+Tirador Modelo3 500mm Blanco;Proveedor18;Prov018-TiradorModelo3500mmBlanco;3.5;5;EUR
+Tirador Modelo3 500mm Blanco;Proveedor19;Prov019-TiradorModelo3500mmBlanco;3.51;10;EUR
+Tirador Modelo3 500mm Blanco;Proveedor20;Prov020-TiradorModelo3500mmBlanco;3.52;15;EUR
+Tirador Modelo3 60mm Latón;Proveedor18;Prov018-TiradorModelo360mmLatón;3.5;5;EUR
+Tirador Modelo3 60mm Latón;Proveedor19;Prov019-TiradorModelo360mmLatón;3.51;10;EUR
+Tirador Modelo3 60mm Latón;Proveedor20;Prov020-TiradorModelo360mmLatón;3.52;15;EUR
+Tirador Modelo3 100mm Latón;Proveedor18;Prov018-TiradorModelo3100mmLatón;3.5;5;EUR
+Tirador Modelo3 100mm Latón;Proveedor19;Prov019-TiradorModelo3100mmLatón;3.51;10;EUR
+Tirador Modelo3 100mm Latón;Proveedor20;Prov020-TiradorModelo3100mmLatón;3.52;15;EUR
+Tirador Modelo3 200mm Latón;Proveedor18;Prov018-TiradorModelo3200mmLatón;3.5;5;EUR
+Tirador Modelo3 200mm Latón;Proveedor19;Prov019-TiradorModelo3200mmLatón;3.51;10;EUR
+Tirador Modelo3 200mm Latón;Proveedor20;Prov020-TiradorModelo3200mmLatón;3.52;15;EUR
+Tirador Modelo3 350mm Latón;Proveedor18;Prov018-TiradorModelo3350mmLatón;3.5;5;EUR
+Tirador Modelo3 350mm Latón;Proveedor19;Prov019-TiradorModelo3350mmLatón;3.51;10;EUR
+Tirador Modelo3 350mm Latón;Proveedor20;Prov020-TiradorModelo3350mmLatón;3.52;15;EUR
+Tirador Modelo3 500mm Latón;Proveedor18;Prov018-TiradorModelo3500mmLatón;3.5;5;EUR
+Tirador Modelo3 500mm Latón;Proveedor19;Prov019-TiradorModelo3500mmLatón;3.51;10;EUR
+Tirador Modelo3 500mm Latón;Proveedor20;Prov020-TiradorModelo3500mmLatón;3.52;15;EUR
+Tirador Modelo4 60mm Negro;Proveedor18;Prov018-TiradorModelo460mmNegro;3.5;5;EUR
+Tirador Modelo4 60mm Negro;Proveedor19;Prov019-TiradorModelo460mmNegro;3.51;10;EUR
+Tirador Modelo4 60mm Negro;Proveedor20;Prov020-TiradorModelo460mmNegro;3.52;15;EUR
+Tirador Modelo4 100mm Negro;Proveedor18;Prov018-TiradorModelo4100mmNegro;3.5;5;EUR
+Tirador Modelo4 100mm Negro;Proveedor19;Prov019-TiradorModelo4100mmNegro;3.51;10;EUR
+Tirador Modelo4 100mm Negro;Proveedor20;Prov020-TiradorModelo4100mmNegro;3.52;15;EUR
+Tirador Modelo4 200mm Negro;Proveedor18;Prov018-TiradorModelo4200mmNegro;3.5;5;EUR
+Tirador Modelo4 200mm Negro;Proveedor19;Prov019-TiradorModelo4200mmNegro;3.51;10;EUR
+Tirador Modelo4 200mm Negro;Proveedor20;Prov020-TiradorModelo4200mmNegro;3.52;15;EUR
+Tirador Modelo4 350mm Negro;Proveedor18;Prov018-TiradorModelo4350mmNegro;3.5;5;EUR
+Tirador Modelo4 350mm Negro;Proveedor19;Prov019-TiradorModelo4350mmNegro;3.51;10;EUR
+Tirador Modelo4 350mm Negro;Proveedor20;Prov020-TiradorModelo4350mmNegro;3.52;15;EUR
+Tirador Modelo4 500mm Negro;Proveedor18;Prov018-TiradorModelo4500mmNegro;3.5;5;EUR
+Tirador Modelo4 500mm Negro;Proveedor19;Prov019-TiradorModelo4500mmNegro;3.51;10;EUR
+Tirador Modelo4 500mm Negro;Proveedor20;Prov020-TiradorModelo4500mmNegro;3.52;15;EUR
+Tirador Modelo4 60mm Blanco;Proveedor18;Prov018-TiradorModelo460mmBlanco;3.5;5;EUR
+Tirador Modelo4 60mm Blanco;Proveedor19;Prov019-TiradorModelo460mmBlanco;3.51;10;EUR
+Tirador Modelo4 60mm Blanco;Proveedor20;Prov020-TiradorModelo460mmBlanco;3.52;15;EUR
+Tirador Modelo4 100mm Blanco;Proveedor18;Prov018-TiradorModelo4100mmBlanco;3.5;5;EUR
+Tirador Modelo4 100mm Blanco;Proveedor19;Prov019-TiradorModelo4100mmBlanco;3.51;10;EUR
+Tirador Modelo4 100mm Blanco;Proveedor20;Prov020-TiradorModelo4100mmBlanco;3.52;15;EUR
+Tirador Modelo4 200mm Blanco;Proveedor18;Prov018-TiradorModelo4200mmBlanco;3.5;5;EUR
+Tirador Modelo4 200mm Blanco;Proveedor19;Prov019-TiradorModelo4200mmBlanco;3.51;10;EUR
+Tirador Modelo4 200mm Blanco;Proveedor20;Prov020-TiradorModelo4200mmBlanco;3.52;15;EUR
+Tirador Modelo4 350mm Blanco;Proveedor18;Prov018-TiradorModelo4350mmBlanco;3.5;5;EUR
+Tirador Modelo4 350mm Blanco;Proveedor19;Prov019-TiradorModelo4350mmBlanco;3.51;10;EUR
+Tirador Modelo4 350mm Blanco;Proveedor20;Prov020-TiradorModelo4350mmBlanco;3.52;15;EUR
+Tirador Modelo4 500mm Blanco;Proveedor18;Prov018-TiradorModelo4500mmBlanco;3.5;5;EUR
+Tirador Modelo4 500mm Blanco;Proveedor19;Prov019-TiradorModelo4500mmBlanco;3.51;10;EUR
+Tirador Modelo4 500mm Blanco;Proveedor20;Prov020-TiradorModelo4500mmBlanco;3.52;15;EUR
+Tirador Modelo4 60mm Latón;Proveedor18;Prov018-TiradorModelo460mmLatón;3.5;5;EUR
+Tirador Modelo4 60mm Latón;Proveedor19;Prov019-TiradorModelo460mmLatón;3.51;10;EUR
+Tirador Modelo4 60mm Latón;Proveedor20;Prov020-TiradorModelo460mmLatón;3.52;15;EUR
+Tirador Modelo4 100mm Latón;Proveedor18;Prov018-TiradorModelo4100mmLatón;3.5;5;EUR
+Tirador Modelo4 100mm Latón;Proveedor19;Prov019-TiradorModelo4100mmLatón;3.51;10;EUR
+Tirador Modelo4 100mm Latón;Proveedor20;Prov020-TiradorModelo4100mmLatón;3.52;15;EUR
+Tirador Modelo4 200mm Latón;Proveedor18;Prov018-TiradorModelo4200mmLatón;3.5;5;EUR
+Tirador Modelo4 200mm Latón;Proveedor19;Prov019-TiradorModelo4200mmLatón;3.51;10;EUR
+Tirador Modelo4 200mm Latón;Proveedor20;Prov020-TiradorModelo4200mmLatón;3.52;15;EUR
+Tirador Modelo4 350mm Latón;Proveedor18;Prov018-TiradorModelo4350mmLatón;3.5;5;EUR
+Tirador Modelo4 350mm Latón;Proveedor19;Prov019-TiradorModelo4350mmLatón;3.51;10;EUR
+Tirador Modelo4 350mm Latón;Proveedor20;Prov020-TiradorModelo4350mmLatón;3.52;15;EUR
+Tirador Modelo4 500mm Latón;Proveedor18;Prov018-TiradorModelo4500mmLatón;3.5;5;EUR
+Tirador Modelo4 500mm Latón;Proveedor19;Prov019-TiradorModelo4500mmLatón;3.51;10;EUR
+Tirador Modelo4 500mm Latón;Proveedor20;Prov020-TiradorModelo4500mmLatón;3.52;15;EUR
+Bisagra Cromo Mate 30Kg;Proveedor1;Prov001-BisagraCromoMate30Kg;4.8;4;EUR
+Bisagra Cromo Mate 70Kg;Proveedor1;Prov001-BisagraCromoMate70Kg;4.8;4;EUR
+Bisagra Cromo Brillo 30Kg;Proveedor1;Prov001-BisagraCromoBrillo30Kg;4.8;4;EUR
+Bisagra Cromo Brillo 70Kg;Proveedor1;Prov001-BisagraCromoBrillo70Kg;4.8;4;EUR
+Bisagra Negro 30Kg;Proveedor1;Prov001-BisagraNegro30Kg;4.8;4;EUR
+Bisagra Negro 70Kg;Proveedor1;Prov001-BisagraNegro70Kg;4.8;4;EUR
+Bisagra Latón 30Kg;Proveedor1;Prov001-BisagraLatón30Kg;4.8;4;EUR
+Bisagra Latón 70Kg;Proveedor1;Prov001-BisagraLatón70Kg;4.8;4;EUR

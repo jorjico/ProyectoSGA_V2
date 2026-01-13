@@ -1,0 +1,71 @@
+nombre;cliente;estado;direccionEntrega
+OF-25/0001;Carlos López;aceptado;Calle Mayor 1, Madrid
+OF-25/0002;Ana Martínez;presupuesto;Avenida de España 12, Barcelona
+OF-25/0003;Luis Fernández;en fabricación;Calle Sevilla 5, Valencia
+OF-25/0004;María Gómez;incidencia;Calle Toledo 3, Sevilla
+OF-25/0005;Javier Sánchez;terminado;Gran Vía 8, Bilbao
+OF-25/0006;Tech Solutions;en fabricación;Calle Innovación 10, Madrid
+OF-25/0007;Innova Group;aceptado;Avenida Industria 45, Barcelona
+OF-25/0008;Soluciones Integrales;presupuesto;Calle Comercio 8, Málaga
+OF-25/0009;Global Services;incidencia;Gran Vía 100, Madrid
+OF-25/0010;Creative Labs;terminado;Calle Colón 23, Valencia
+OF-25/0011;Lucía Navarro;en fabricación;Calle Luna 14, Madrid
+OF-25/0012;Diego Morales;aceptado;Calle Sol 7, Sevilla
+OF-25/0013;Sofía Ruiz;presupuesto;Avenida Mar 20, Valencia
+OF-25/0014;Alberto Torres;incidencia;Calle Río 3, Málaga
+OF-25/0015;Elena Díaz;terminado;Calle Lago 5, Bilbao
+OF-25/0016;Digital Factory;aceptado;Calle Industria 15, Sevilla
+OF-25/0017;Alpha Solutions;en fabricación;Paseo de Gracia 99, Barcelona
+OF-25/0018;Beta Tech;presupuesto;Calle San Vicente 56, Bilbao
+OF-25/0019;Gamma Systems;incidencia;Calle Toledo 120, Madrid
+OF-25/0020;Delta Enterprises;terminado;Ronda Sant Antoni 14, Barcelona
+OF-25/0021;Pedro Hernández;aceptado;Calle Verde 2, Sevilla
+OF-25/0022;Laura Jiménez;en fabricación;Calle Roja 8, Valencia
+OF-25/0023;Fernando Castro;presupuesto;Gran Vía 7, Madrid
+OF-25/0024;Patricia Moreno;incidencia;Calle Azul 10, Barcelona
+OF-25/0025;David Ortega;terminado;Calle Naranja 12, Málaga
+OF-25/0026;Omega Corp;aceptado;Calle Betis 78, Sevilla
+OF-25/0027;Sigma Tech;en fabricación;Calle Alcalá 250, Madrid
+OF-25/0028;Lambda Solutions;presupuesto;Calle Aragón 33, Palma
+OF-25/0029;Epsilon Group;incidencia;Calle Ruzafa 120, Valencia
+OF-25/0030;Zeta Labs;terminado;Gran Vía Asunción 45, Sevilla
+OF-25/0031;Cristina Ruiz;aceptado;Calle Uría 77, Oviedo
+OF-25/0032;Jorge Torres;en fabricación;Calle Real 5, A Coruña
+OF-25/0033;Marta Gil;presupuesto;Calle Mayor 200, Alicante
+OF-25/0034;Sergio Peña;incidencia;Avenida Constitución 150, Zaragoza
+OF-25/0035;Raquel Campos;terminado;Calle Olmo 12, Madrid
+OF-25/0036;Theta Solutions;aceptado;Calle Ancha 10, Cádiz
+OF-25/0037;Iota Group;en fabricación;Avenida Constitución 150, Zaragoza
+OF-25/0038;Ignacio Molina;presupuesto;Calle Granada 3, Sevilla
+OF-25/0039;Verónica León;incidencia;Calle Sevilla 18, Valencia
+OF-25/0040;Ricardo Navarro;terminado;Gran Vía 2, Madrid
+OF-25/0041;Silvia Cortés;aceptado;Calle Alcázar 6, Barcelona
+OF-25/0042;Andrés Herrera;en fabricación;Calle Sol 14, Málaga
+OF-25/0043;Natalia Vega;presupuesto;Calle Luna 9, Bilbao
+OF-25/0044;Alfonso Castillo;incidencia;Calle Río 7, Sevilla
+OF-25/0045;Monica Peña;terminado;Calle Prado 3, Valencia
+OF-25/0046;Hugo Romero;aceptado;Gran Vía 1, Madrid
+OF-25/0047;Raúl Torres;en fabricación;Calle Mayor 4, Barcelona
+OF-25/0048;Carmen Ortega;presupuesto;Calle Real 11, Málaga
+OF-25/0049;Joaquín Fernández;incidencia;Avenida España 9, Bilbao
+OF-25/0050;Mónica Ruiz;terminado;Calle Luna 21, Sevilla
+OF-25/0051;Alberto Gil;aceptado;Calle Sol 17, Valencia
+OF-25/0052;Paula Torres;en fabricación;Gran Vía 6, Madrid
+OF-25/0053;Javier Molina;presupuesto;Calle Mayor 8, Barcelona
+OF-25/0054;Sara Vega;incidencia;Calle Real 12, Málaga
+OF-25/0055;Óscar Fernández;terminado;Avenida España 11, Bilbao
+OF-25/0056;Marcos Herrera;aceptado;Calle Luna 6, Sevilla
+OF-25/0057;Carlos López;en fabricación;Calle Mayor 3, Madrid
+OF-25/0058;Ana Martínez;presupuesto;Avenida de España 14, Barcelona
+OF-25/0059;Luis Fernández;incidencia;Calle Sevilla 7, Valencia
+OF-25/0060;María Gómez;terminado;Calle Toledo 5, Sevilla
+OF-25/0061;Javier Sánchez;aceptado;Gran Vía 10, Bilbao
+OF-25/0062;Tech Solutions;en fabricación;Calle Innovación 12, Madrid
+OF-25/0063;Innova Group;presupuesto;Avenida Industria 47, Barcelona
+OF-25/0064;Soluciones Integrales;incidencia;Calle Comercio 10, Málaga
+OF-25/0065;Global Services;terminado;Gran Vía 102, Madrid
+OF-25/0066;Creative Labs;aceptado;Calle Colón 25, Valencia
+OF-25/0067;Lucía Navarro;en fabricación;Calle Luna 16, Madrid
+OF-25/0068;Diego Morales;presupuesto;Calle Sol 9, Sevilla
+OF-25/0069;Sofía Ruiz;incidencia;Avenida Mar 22, Valencia
+OF-25/0070;Alberto Torres;terminado;Calle Río 5, Málaga

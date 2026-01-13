@@ -1,0 +1,57 @@
+tipo;nombre;NIF;CIF;direccionFacturacion;telefono;email;activo
+persona;Carlos López;12345678Z;;Calle Mayor 1, Madrid;34123456789;carlos.lopez@example.com;true
+persona;Ana Martínez;87654321X;;Avenida de España 12, Barcelona;34987654321;ana.martinez@example.com;true
+persona;Luis Fernández;23456789Y;;Calle Sevilla 5, Valencia;34911223344;luis.fernandez@example.com;true
+persona;María Gómez;34567890A;;Calle Toledo 3, Sevilla;34999887766;maria.gomez@example.com;true
+persona;Javier Sánchez;45678901B;;Gran Vía 8, Bilbao;34988776655;javier.sanchez@example.com;true
+empresa;Tech Solutions;;B12345678;Calle Innovación 10, Madrid;34991234567;contacto@techsolutions.es;true
+empresa;Innova Group;;A87654321;Avenida Industria 45, Barcelona;34987654322;info@innovagroup.es;true
+empresa;Soluciones Integrales;;C23456789;Calle Comercio 8, Málaga;34987651234;ventas@solucionesintegrales.es;true
+empresa;Global Services;;B34567890;Gran Vía 100, Madrid;34987659876;contact@globalservices.es;true
+empresa;Creative Labs;;A45678901;Calle Colón 23, Valencia;34987654333;info@creativelabs.es;true
+persona;Lucía Navarro;56789012C;;Calle Luna 14, Madrid;34987654344;lucia.navarro@example.com;true
+persona;Diego Morales;67890123D;;Calle Sol 7, Sevilla;34987651235;diego.morales@example.com;true
+persona;Sofía Ruiz;78901234E;;Avenida Mar 20, Valencia;34987654345;sofia.ruiz@example.com;true
+persona;Alberto Torres;89012345F;;Calle Río 3, Málaga;34987651236;alberto.torres@example.com;true
+persona;Elena Díaz;90123456G;;Calle Lago 5, Bilbao;34987654346;elena.diaz@example.com;true
+empresa;Digital Factory;;C56789012;Calle Industria 15, Sevilla;34987654347;contacto@digitalfactory.es;true
+empresa;Alpha Solutions;;B67890123;Paseo de Gracia 99, Barcelona;34987654348;info@alphasolutions.es;true
+empresa;Beta Tech;;A78901234;Calle San Vicente 56, Bilbao;34987654349;ventas@betatech.es;true
+empresa;Gamma Systems;;C89012345;Calle Toledo 120, Madrid;34987654350;contact@gammasystems.es;true
+empresa;Delta Enterprises;;B90123456;Ronda Sant Antoni 14, Barcelona;34987654351;info@deltaenterprises.es;true
+persona;Pedro Hernández;11223344H;;Calle Verde 2, Sevilla;34987654352;pedro.hernandez@example.com;true
+persona;Laura Jiménez;22334455I;;Calle Roja 8, Valencia;34987654353;laura.jimenez@example.com;true
+persona;Fernando Castro;33445566J;;Gran Vía 7, Madrid;34987654354;fernando.castro@example.com;true
+persona;Patricia Moreno;44556677K;;Calle Azul 10, Barcelona;34987654355;patricia.moreno@example.com;true
+persona;David Ortega;55667788L;;Calle Naranja 12, Málaga;34987654356;david.ortega@example.com;true
+empresa;Omega Corp;;A01234567;Calle Betis 78, Sevilla;34987654357;contact@omegacorp.es;true
+empresa;Sigma Tech;;C12345098;Calle Alcalá 250, Madrid;34987654358;info@sigmatech.es;true
+empresa;Lambda Solutions;;B23456098;Calle Aragón 33, Palma;34987654359;ventas@lambdasolutions.es;true
+empresa;Epsilon Group;;A34567098;Calle Ruzafa 120, Valencia;34987654360;contact@epsilongroup.es;true
+empresa;Zeta Labs;;C45678098;Gran Vía Asunción 45, Sevilla;34987654361;info@zetalabs.es;true
+persona;Cristina Ruiz;66778899M;;Calle Uría 77, Oviedo;34987654362;cristina.ruiz@example.com;true
+persona;Jorge Torres;77889900N;;Calle Real 5, A Coruña;34987654363;jorge.torres@example.com;true
+persona;Marta Gil;88990011O;;Calle Mayor 200, Alicante;34987654364;marta.gil@example.com;true
+persona;Sergio Peña;99001122P;;Avenida Constitución 150, Zaragoza;34987654365;sergio.pena@example.com;true
+persona;Raquel Campos;10111213Q;;Calle Olmo 12, Madrid;34987654366;raquel.campos@example.com;true
+empresa;Theta Solutions;;B89012098;Calle Ancha 10, Cádiz;34987654367;contact@thetasolutions.es;true
+empresa;Iota Group;;A90123098;Avenida Constitución 150, Zaragoza;34987654368;info@iotagroup.es;true
+persona;Ignacio Molina;12131415R;;Calle Granada 3, Sevilla;34987654369;ignacio.molina@example.com;true
+persona;Verónica León;13141516S;;Calle Sevilla 18, Valencia;34987654370;veronica.leon@example.com;true
+persona;Ricardo Navarro;14151617T;;Gran Vía 2, Madrid;34987654371;ricardo.navarro@example.com;true
+persona;Silvia Cortés;15161718U;;Calle Alcázar 6, Barcelona;34987654372;silvia.cortes@example.com;true
+persona;Andrés Herrera;16171819V;;Calle Sol 14, Málaga;34987654373;andres.herrera@example.com;true
+persona;Natalia Vega;17181920W;;Calle Luna 9, Bilbao;34987654374;natalia.vega@example.com;true
+persona;Alfonso Castillo;18192021X;;Calle Río 7, Sevilla;34987654375;alfonso.castillo@example.com;true
+persona;Monica Peña;19202122Y;;Calle Prado 3, Valencia;34987654376;monica.pena@example.com;true
+persona;Hugo Romero;20212223Z;;Gran Vía 1, Madrid;34987654377;hugo.romero@example.com;true
+persona;Raúl Torres;21222324A;;Calle Mayor 4, Barcelona;34987654378;raul.torres@example.com;true
+persona;Carmen Ortega;22232425B;;Calle Real 11, Málaga;34987654379;carmen.ortega@example.com;true
+persona;Joaquín Fernández;23242526C;;Avenida España 9, Bilbao;34987654380;joaquin.fernandez@example.com;true
+persona;Mónica Ruiz;24252627D;;Calle Luna 21, Sevilla;34987654381;monica.ruiz@example.com;true
+persona;Alberto Gil;25262728E;;Calle Sol 17, Valencia;34987654382;alberto.gil@example.com;true
+persona;Paula Torres;26272829F;;Gran Vía 6, Madrid;34987654383;paula.torres@example.com;true
+persona;Javier Molina;27282930G;;Calle Mayor 8, Barcelona;34987654384;javier.molina@example.com;true
+persona;Sara Vega;28293031H;;Calle Real 12, Málaga;34987654385;sara.vega@example.com;true
+persona;Óscar Fernández;29303132I;;Avenida España 11, Bilbao;34987654386;oscar.fernandez@example.com;true
+persona;Marcos Herrera;30313233J;;Calle Luna 6, Sevilla;34987654387;marcos.herrera@example.com;true
