@@ -1,5 +1,5 @@
 import { FormControl, FormLabel, HStack, Input, Select, useTheme } from "@chakra-ui/react";
-import AutoCompletarInput from "./AutoCompletarInput";
+import AutoCompletarInput from "./AutocompletarInput.jsx";
 import BotonCrearElemento from "./BotonCrearElemento";
 
 function CampoDinamico({ campo, value, onChange, backendUrl, iconoSrc }) {
