@@ -2,9 +2,9 @@ import { useState } from "react";
 import EditarDatos from "../components/EditarDatos";
 import { Input, FormControl, FormLabel, VStack, HStack } from "@chakra-ui/react";
 import { useNavigate } from "react-router-dom";
-import AutoCompletarInput from "../components/AutoCompletarInput";
 import BotonCrear from "../components/BotonCrear";
 import BackButton from "../components/BotonAtras";
+import AutoCompletarInput from "../components/AutocompletarInput";
 
 function EditarProducto({ producto }) {
     const [formData, setFormData] = useState({
