@@ -14,7 +14,7 @@ function Login() {
         e.preventDefault();
 
         try {
-            const res = await fetch("http://localhost:4000/api/auth/login", {
+            const res = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/auth/login`, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({ email, password }),
@@ -25,7 +25,7 @@ function Login() {
 
             localStorage.setItem("token", data.token);
 
-            const usuarioRes = await fetch("http://localhost:4000/api/auth/usuario", {
+            const usuarioRes = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/auth/usuario`, {
                 headers: { Authorization: `Bearer ${data.token}` },
             });
 
