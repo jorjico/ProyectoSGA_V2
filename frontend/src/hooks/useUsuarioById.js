@@ -12,7 +12,7 @@ function useUsuarioById(id) {
             try {
                 setLoading(true);
                 const token = localStorage.getItem("token");
-                const res = await fetch(`http://localhost:4000/api/usuarios/${id}`, {
+                const res = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/usuarios/${id}`, {
                     headers: { Authorization: `Bearer ${token}` }
                 });
 

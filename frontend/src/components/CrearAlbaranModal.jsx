@@ -35,7 +35,7 @@ function CrearAlbaranModal({ isOpen, onClose, pedido, onAlbaranCreado }) {
         try {
             const token = localStorage.getItem("token");
 
-            const res = await fetch("http://localhost:4000/api/albaranes", {
+            const res = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/albaranes`, {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",

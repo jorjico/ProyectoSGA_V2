@@ -10,7 +10,7 @@ export const UsuarioProvider = ({ children }) => {
 
         const cargarUsuario = async () => {
             try {
-                const res = await fetch("http://localhost:4000/api/auth/usuario", {
+                const res = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/auth/usuario`, {
                     headers: { Authorization: `Bearer ${token}` },
                 });
 

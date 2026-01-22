@@ -11,7 +11,7 @@ function useClienteById(id) {
                 setLoading(true);
                 const token = localStorage.getItem("token");
 
-                const res = await fetch(`http://localhost:4000/api/clientes/${id}`, {
+                const res = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/clientes/${id}`, {
                     headers: {
                         Authorization: `Bearer ${token}`,
                         "Content-Type": "application/json",

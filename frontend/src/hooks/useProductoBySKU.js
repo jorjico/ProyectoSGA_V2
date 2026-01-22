@@ -11,7 +11,7 @@ function useProductoBySKU(sku) {
                 setLoading(true);
                 const token = localStorage.getItem("token");
 
-                const res = await fetch(`http://localhost:4000/api/productos/${sku}`, {
+                const res = await fetch(`${import.meta.env.VITE_BACKEND_URL}/api/productos/${sku}`, {
                     headers: {
                         Authorization: `Bearer ${token}`,
                         "Content-Type": "application/json"

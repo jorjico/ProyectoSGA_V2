@@ -12,7 +12,7 @@ function useProyectosByCliente(clienteId) {
                 const token = localStorage.getItem("token");
 
                 const res = await fetch(
-                    `http://localhost:4000/api/proyectos?cliente=${clienteId}`,
+                    `${import.meta.env.VITE_BACKEND_URL}/api/proyectos?cliente=${clienteId}`,
                     {
                         headers: {
                             Authorization: `Bearer ${token}`,
