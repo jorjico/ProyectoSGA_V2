@@ -56,10 +56,6 @@ function FichaContactoProveedor() {
                     </Text>
 
                     <Text sx={styles.fichaText}>
-                        <Text sx={styles.fichaLabel}>Proveedor:</Text> {contacto.proveedor?.nombre || "-"}
-                    </Text>
-
-                    <Text sx={styles.fichaText}>
                         Proveedor:{" "}
                         {contacto.proveedor ? (
                             <Text
