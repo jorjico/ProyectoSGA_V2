@@ -31,7 +31,16 @@ const allowedOrigins = process.env.FRONTEND_URL
   : [];
 
 app.use(cors({
-  origin: allowedOrigins
+  origin: function (origin, callback) {
+    if (!origin) return callback(null, true);
+
+    if (!allowedOrigins.includes(origin)) {
+      return callback(new Error(`CORS bloqueado para: ${origin}`), false);
+    }
+
+    return callback(null, true);
+  },
+  credentials: true
 }));
 
 app.use("/api/albaranes", albaranesRoutes);
