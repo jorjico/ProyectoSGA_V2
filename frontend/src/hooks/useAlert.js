@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 function useAlert() {
-    const [alerta, setAlerta] = useState ({
+    const [alert, setAlerta] = useState ({
         isOpen: false,
         titulo: "",
         mensaje: "",
@@ -25,7 +25,7 @@ function useAlert() {
         }));
     }
 
-    return { alerta, showAlert, closeAlert };
+    return { alert, showAlert, closeAlert };
 }
 
 export default useAlert;

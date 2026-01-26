@@ -42,7 +42,7 @@ function Login() {
         }*/
         } catch (error) {
             showAlert({
-                titulos: "Error de autenticación",
+                titulo: "Error de autenticación",
                 mensaje: error.message,
             })
         }
