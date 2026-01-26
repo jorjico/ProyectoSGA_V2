@@ -3,12 +3,15 @@ import { Heading, Input, Button } from "@chakra-ui/react";
 import { UsuarioContext } from "../context/UsuarioContext.jsx";
 import { useNavigate } from "react-router-dom";
 import { EstiloChakra } from "../components/EstiloChakra.jsx";
+import AlertaModal from "../components/AlertaModal";
+import useAlert from "../hooks/useAlert";
 
 function Login() {
     const { setUsuario } = useContext(UsuarioContext);
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
     const navigate = useNavigate();
+    const { alert, showAlert, closeAlert } = useAlert();
 
     const handleSubmit = async (e) => {
         e.preventDefault();
@@ -34,29 +37,48 @@ function Login() {
 
             setUsuario(userData);
             navigate("/home");
+        /*} catch (error) {
+            alert(error.message);
+        }*/
         } catch (error) {
-        alert(error.message);
+            showAlert({
+                titulos: "Error de autenticación",
+                mensaje: error.message,
+            })
         }
     };
 
     return (
-        <EstiloChakra onSubmit={handleSubmit}>
-            <Heading>Iniciar sesión</Heading>
-            <Input
-                placeholder="Email"
-                value={email}
-                onChange={(e) => setEmail(e.target.value)}
+        <>
+            <EstiloChakra onSubmit={handleSubmit}>
+                <Heading>Iniciar sesión</Heading>
+                <Input
+                    placeholder="Email"
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
+                />
+                <Input
+                    placeholder="Contraseña"
+                    type="password"
+                    value={password}
+                    onChange={(e) => setPassword(e.target.value)}
+                />
+                <Button type="submit" colorScheme="blue" width="full">
+                    Acceder
+                </Button>
+            </EstiloChakra>
+
+            <AlertaModal
+                isOpen={alert.isOpen}
+                titulo={alert.titulo}
+                mensaje={alert.mensaje}
+                onClose={closeAlert}
+                onConfirm={closeAlert}
             />
-            <Input
-                placeholder="Contraseña"
-                type="password"
-                value={password}
-                onChange={(e) => setPassword(e.target.value)}
-            />
-            <Button type="submit" colorScheme="blue" width="full">
-                Acceder
-            </Button>
-        </EstiloChakra>
+
+        </>
+
+        
     );
 }
 
