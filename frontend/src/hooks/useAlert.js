@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-function useAlerta() {
+function useAlert() {
     const [alerta, setAlerta] = useState ({
         isOpen: false,
         titulo: "",
@@ -9,7 +9,7 @@ function useAlerta() {
         confirmText: "Entendido",
     });
 
-    const showAlerta = ({ titulo = "Ups...", mensaje, onConfirm }) => {
+    const showAlert = ({ titulo = "Ups...", mensaje, onConfirm }) => {
         setAlerta({
             isOpen: true,
             titulo,
@@ -18,14 +18,14 @@ function useAlerta() {
         });
     }
 
-    const closeAlerta = () => {
+    const closeAlert = () => {
         setAlerta((prev) => ({
             ...prev,
             isOpen: false,
         }));
     }
 
-    return { alerta, showAlerta, closeAlerta };
+    return { alerta, showAlert, closeAlert };
 }
 
-export default useAlerta;
+export default useAlert;
