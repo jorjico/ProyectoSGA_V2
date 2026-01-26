@@ -1,4 +1,4 @@
-const { useState } = require("react");
+import { useState } from "react";
 
 function useAlerta() {
     const [alerta, setAlerta] = useState ({
